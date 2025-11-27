@@ -1,6 +1,6 @@
 location                         = "northeurope"
-resource_group_name              = "rg-vri-test"
-storage_account_name             = "savritest"
+resource_group_name              = "rg-vri-prod"
+storage_account_name             = "savriprod"
 storage_account_tier             = "Standard"
 storage_account_replication_type = "GRS"
 container_name                   = "appdata-prod"
